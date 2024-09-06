@@ -7,4 +7,4 @@ pixel feed is a low-fi pixelated grayscale webcam video feed with recording capa
 <img width="1002" alt="pixelfeed2" src="https://github.com/user-attachments/assets/c153a0d6-fee9-4fef-9889-76d7c34a9958">
 
 
-find pixel feed @ [pixel-feed.surge.sh](pixel-feed.surge.sh)
+find pixel feed @ [pixel-feed.surge.sh](https://pixel-feed.surge.sh)

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pixel Feed</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <h1>pixel feed</h1>
+  <div class="video-feeds">
+    <canvas id="canvas"></canvas>
+    <div class="video-buttons">
+      <button id="recordButton">></button>
+      <button id="stopButton" disabled>||</button>
+    </div>
+    <a id="downloadLink" style="display:none">Download Video</a>
+  </div>
+  <img src="stop.png"id="box-1"/>
+  <div class="banner">
+    <div class="banner-content">
+      <p>pixel feed records videos. press the record button to start.
+        press the stop button to end. press download to watch the world through
+        a screen door. </p>
+    </div>
+  </div>
+  <img src="stop.png" id="box-2"/>
+  <script src="../main.js"></script>
+</body>
+
+</html>
